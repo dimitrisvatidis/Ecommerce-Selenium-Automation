@@ -1,10 +1,10 @@
-# 🛍️ Ecommerce Selenium Automation
+Ecommerce Selenium Automation
 
 This project is a fully automated end-to-end (E2E) test script built with **Python** and **Selenium WebDriver**. It simulates a realistic user journey on a demo e-commerce site, from registration to checkout.
 
 ---
 
-## 🚀 What It Does
+What It Does
 
 The script performs the following actions:
 
@@ -21,7 +21,7 @@ The script performs the following actions:
 
 ---
 
-## 🧰 Technologies Used
+Technologies Used
 
 - Python 3.x
 - Selenium WebDriver
@@ -30,7 +30,7 @@ The script performs the following actions:
 
 ---
 
-## 📦 Installation
+Installation
 
 1. **Clone the repository**:
    ```bash
